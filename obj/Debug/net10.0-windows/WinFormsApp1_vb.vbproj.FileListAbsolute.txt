@@ -1,0 +1,17 @@
+C:\Repos\WinFormsApp1_vb\bin\Debug\net10.0-windows\WinFormsApp1_vb.exe
+C:\Repos\WinFormsApp1_vb\bin\Debug\net10.0-windows\WinFormsApp1_vb.deps.json
+C:\Repos\WinFormsApp1_vb\bin\Debug\net10.0-windows\WinFormsApp1_vb.runtimeconfig.json
+C:\Repos\WinFormsApp1_vb\bin\Debug\net10.0-windows\WinFormsApp1_vb.dll
+C:\Repos\WinFormsApp1_vb\bin\Debug\net10.0-windows\WinFormsApp1_vb.pdb
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\WinFormsApp1_vb.Form1.resources
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\WinFormsApp1_vb.vbproj.GenerateResource.cache
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\WinFormsApp1_vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\WinFormsApp1_vb.AssemblyInfoInputs.cache
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\WinFormsApp1_vb.AssemblyInfo.vb
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\WinFormsApp1_vb.vbproj.CoreCompileInputs.cache
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\WinFormsApp1_vb.sourcelink.json
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\WinFormsApp1_vb.dll
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\refint\WinFormsApp1_vb.dll
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\WinFormsApp1_vb.pdb
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\WinFormsApp1_vb.genruntimeconfig.cache
+C:\Repos\WinFormsApp1_vb\obj\Debug\net10.0-windows\ref\WinFormsApp1_vb.dll
